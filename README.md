@@ -11,7 +11,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)\
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Ethereum&logoColor=00599C)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=00599C)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
