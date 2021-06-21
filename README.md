@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 - 🎓 I'm currently studying Applied Computer Science at the University of Applied Sciences Utrecht, The Netherlands.
 - 🔭 I'm currently working on my graduation internship at AimValley B.V.
-- 🌱 I’m currently learning C++ again since I have used Python for a long time.
+- 🌱 I’m currently 'mastering' C++ again since I have used Python for a long time.
 - 📫 You can shoot me an email at dev@nathanhoekstra.nl!
 - ⚡ Fun fact: My website is in maintanance mode for almost a year now 🤦‍♂️
 
