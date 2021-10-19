@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 🎓 I recently graduated at the University of Applied Sciences Utrecht, The Netherlands.
-- 🔭 I'm currently working at AimValley B.V.
+- 🔭 I'm currently working for AimValley B.V.
 - 🌱 I’m currently 'mastering' C++ again since I have used Python for a long time.
 - 📫 You can shoot me an email at dev@nathanhoekstra.nl!
 - ⚡ Fun fact: My website is in maintanance mode for almost a year now 🤦‍♂️
