@@ -1,7 +1,7 @@
 ## 👋 Hey there! I'm Nathan
 
 ### 👨🏻‍💻 About Me
-- 🎓 I recently graduated at the University of Applied Sciences Utrecht, The Netherlands.
+- 🎓 I graduated at the University of Applied Sciences Utrecht, The Netherlands.
 - 🔭 I'm currently working for AimValley B.V.
 - 📫 You can shoot me an email at dev@nathanhoekstra.nl!
 - ⚡ Fun fact: My website is in maintanance mode for more than a year now 🤦‍♂️
