@@ -4,7 +4,7 @@
 - 🎓 I graduated at the University of Applied Sciences Utrecht, The Netherlands.
 - 🔭 I'm currently working for AimValley B.V.
 - 📫 You can shoot me an email at dev@nathanhoekstra.nl!
-- ⚡ Fun fact: My website is in maintanance mode for more than two years now 🤦‍♂️
+- ⚡ Fun fact: My website is finally live after more than two years 🤦‍♂️
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
