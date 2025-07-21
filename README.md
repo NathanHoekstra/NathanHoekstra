@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 🎓 I graduated at the University of Applied Sciences Utrecht, The Netherlands.
-- 🔭 I'm currently working for AimValley B.V.
+- 🔭 I'm currently working for the Dutch Ministry of Defence.
 - 📫 You can shoot me an email at dev@nathanhoekstra.nl!
 - ⚡ Fun fact: My website is finally live after more than two years 🤦‍♂️
 
